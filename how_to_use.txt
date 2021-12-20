@@ -1,0 +1,5 @@
+type p for present
+type a for absent
+type n for students not connected to audio
+
+The orignal names are not used to privacy reasons
